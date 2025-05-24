@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>👋 Привет!</Text>
-      <Text style={styles.subtitle}>Вы запустили приложение на {Platform.OS}</Text>
+      <Text style={styles.subtitle}>Вы запустили приложение33333 RERE {Platform.OS}</Text>
     </View>
   );
 }
@@ -27,3 +27,7 @@ const styles = StyleSheet.create({
     color: '#666',
   },
 });
+
+
+
+// npx expo start --web
